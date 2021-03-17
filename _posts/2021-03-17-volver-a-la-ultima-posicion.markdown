@@ -8,5 +8,5 @@ categories: vim
 ---
 Para volver a seleccionar la última selección usamos las teclas:
 
-`''` para volver a la última linea
-```` para volver a la posición exacta
+- `''` para volver a la última linea
+- `\`\`` para volver a la posición exacta
